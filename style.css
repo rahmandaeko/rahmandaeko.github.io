@@ -1,0 +1,27 @@
+/* Navbar */
+.main-navbar .navbar-nav a.nav-link {
+  color: #fff;
+  font-weight: 500;
+  font-variant: small-caps;
+}
+
+.main-navbar .navbar-nav .nav-link.active {
+  color: #ef9f02;
+}
+
+/* Hero Section */
+.hero-section {
+  /*background-color: black;*/
+  color: aliceblue;
+}
+
+/* Body */
+.global {
+  background-image: url(Pictures/Home/Background.jpg);
+  /*background-color: black;*/
+}
+
+/* Judul Project */
+.main-picture {
+  background-color: rgb(32, 32, 32);
+}
